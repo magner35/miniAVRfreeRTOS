@@ -1,9 +1,0 @@
-# Ignore binaries from examples
-*.o
-*.d
-*.map
-*.lss
-*.elf
-*.bin
-*.sym
-*.hex
